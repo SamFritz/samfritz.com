@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Samantha Fritz is the project manager for the Archives Unleashed Project. 
+Samantha Fritz is the project manager for the Archives Unleashed Project.
