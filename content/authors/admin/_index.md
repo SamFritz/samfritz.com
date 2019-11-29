@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Project Manager
+role:
 
 # Organizations/Affiliations
 organizations:
-- name: Archives Unleashed Project
-  url: "https://archivesunleashed.org"
+- name:
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Information superhero,
+bio: Information superhero, Martial Artist,
 
 interests:
 - Information Management
