@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role:
+role: Project Manager
 
 # Organizations/Affiliations
-organizations:
+organizations: Archives Unleashed Project
 - name:
-  url: ""
+  url: "https://archivesunleashed.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Information superhero, Martial Artist,
@@ -24,6 +24,8 @@ interests:
 - Information Management
 - Digital Humanities
 - Web Archiving
+- Research
+- Instructional Design
 
 education:
   courses:
@@ -59,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "svefritz@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,5 +69,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Samantha Fritz is the project manager for the Archives Unleashed Project.
