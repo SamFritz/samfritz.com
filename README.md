@@ -1,6 +1,6 @@
 # samfritz.com
 
-This repository provides the template for [samfritz.com](samfritz.com)
+This repository provides the template for [https://samfritz.com](https://samfritz.com)
 
 
 # [Academic Kickstart](https://sourcethemes.com/academic/)
